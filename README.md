@@ -4,7 +4,7 @@ A research assistant that combines web search and document analysis to answer qu
 
 ## Purpose
 
-This assistant operates in a general research domain. It searches through uploaded documents and web sources to provide accurate, cited responses to user questions.
+This research assistant operates in a general research domain. It searches through uploaded documents and web sources to provide accurate, cited responses to user questions.
 
 ## Tools
 
